@@ -10,7 +10,6 @@ I help businesses and clients grow their online presence by creating:
 
 🎯 Currently focusing on sharpening my **Data Structures & Algorithms** skills step-by-step.
 
-🎵 Besides coding, I’m also a **musician** — creating with both code and chords is what keeps me going!
 
 ---
 
